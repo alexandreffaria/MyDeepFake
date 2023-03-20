@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore .env file
+.env
+
+# Ignore images folder
+images/
+
+# Ignore image_links folder
+image_links/
+
+# Ignore bing implementation
+link_scraper_bing.py
